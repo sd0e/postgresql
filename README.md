@@ -1,4 +1,4 @@
-# PostgreSQL Guide
+# PostgreSQL Notes
 
 These are my notes from learning PostgreSQL, containing everything I learned or had to look up in the process.
 

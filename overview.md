@@ -1,3 +1,1 @@
 # Overview
-
-> An awesome project.
